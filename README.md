@@ -1,6 +1,6 @@
 ![4e539b07b5cf379069dc5e9c1d822a3](https://user-images.githubusercontent.com/97984680/181413098-4d8c6ab9-d7cf-4bb2-a090-787dc4738e1a.png)
 
-This project aim to build an app to predict the medical cost in United States by attributes: Age, Gender, Bmi, Reigon, The Number of Children, Smoke or not
+This project aim to build an app to predict the medical cost in United States base on attributes: Age, Gender, Bmi, Reigon, The Number of Children, Smoke or not
 
 ![5796baf071a13330377e4ed711fe7fa](https://user-images.githubusercontent.com/97984680/181418807-937ae8f3-bb0a-4569-80ee-b2c22a913592.png)
 
