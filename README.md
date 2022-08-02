@@ -115,6 +115,7 @@ df1 = pd.concat([df.drop('region',axis='columns'),dummies],axis='columns')
 ```
 
 ```python
+
 #create linear regression model and test the prediction accuarcy
 x=df1.drop(columns="charges")
 y=df1.charges
