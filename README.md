@@ -63,6 +63,7 @@ plt.pie(region["count"].tolist(), labels=region["region"].tolist(), labeldistanc
        autopct='%1.1f%%', shadow=True);
 plt.title("Region Distribution")
 ```
+
 ![c718f2c805e37c276c192477a04fb70](https://user-images.githubusercontent.com/97984680/181414383-2d516766-225a-45c7-9317-26ca5b6f0692.png)
 
 Age
