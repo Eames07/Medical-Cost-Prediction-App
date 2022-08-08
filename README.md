@@ -98,6 +98,7 @@ sns.countplot(x='sex', data = Expenditure, palette='GnBu', saturation=0.8)
 ```
 ![40c93c19902664c3a0d8d1b8c1e9ec0](https://user-images.githubusercontent.com/97984680/181414460-02952cb9-b0f2-4703-b0cb-fa3e51445975.png)
 
+
 Medicial Cost
 ```python
 plt.figure(figsize=(12,10))
