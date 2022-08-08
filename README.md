@@ -53,6 +53,7 @@ plt.title("Number of Children")
 ```
 ![ef9bda2fcc4579b9d8f24c7fd9b30d2](https://user-images.githubusercontent.com/97984680/181414350-7928eed5-c0d7-4820-b7f4-dd6cc83eab14.png)
 
+
 Region
 ```python
 region=Expenditure.region.value_counts().rename_axis('region').reset_index(name='count')
