@@ -16,6 +16,7 @@ Columns(7):
 
 - children(number of children)
 
+
 - smoker(whether the customer smokes or not)
 
 - region(which region of the country the customer belongs to)
