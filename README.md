@@ -24,6 +24,7 @@ Columns(7):
 
 Source: https://www.kaggle.com/datasets/harshsingh2209/medical-insurance-payout
 
+
 Link for this work in my kaggle: https://www.kaggle.com/code/eames07/medical-payout-prediction
 
 # Exploratory Data Analysis
